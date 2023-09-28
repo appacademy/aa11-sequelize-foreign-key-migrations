@@ -1,0 +1,1 @@
+# aa11-sequelize-foreign-key-migrations
